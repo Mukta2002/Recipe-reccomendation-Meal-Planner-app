@@ -1,0 +1,8 @@
+.DS_Store
+__pycache__
+env
+credentials.txt
+meal_app/meal_plans/saved_meal_plans/*
+notes.txt
+full_database_backup*
+saved_meal_plans/*
